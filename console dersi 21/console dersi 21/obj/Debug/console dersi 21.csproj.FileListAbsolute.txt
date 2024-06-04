@@ -1,0 +1,8 @@
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 21\console dersi 21\bin\Debug\console dersi 21.exe.config
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 21\console dersi 21\bin\Debug\console dersi 21.exe
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 21\console dersi 21\bin\Debug\console dersi 21.pdb
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 21\console dersi 21\obj\Debug\console dersi 21.csproj.AssemblyReference.cache
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 21\console dersi 21\obj\Debug\console dersi 21.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 21\console dersi 21\obj\Debug\console dersi 21.csproj.CoreCompileInputs.cache
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 21\console dersi 21\obj\Debug\console dersi 21.exe
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 21\console dersi 21\obj\Debug\console dersi 21.pdb
